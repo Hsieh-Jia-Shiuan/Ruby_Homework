@@ -1,3 +1,3 @@
 ```ruby
-puts "Hello"
+puts "Hello!"
 ```
